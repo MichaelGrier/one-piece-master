@@ -1,0 +1,67 @@
+.project-wrap {
+    font-family: 'Pirata One', cursive;
+    height: 100vh;
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.title {
+    font-size: 400%;
+    padding-top: 2.5rem;
+    padding-left: 12rem;
+}
+
+.quiz-box {
+    height: 20rem;
+    width: 39rem;
+    background-color: #fff;
+    margin-left: 4rem;
+    margin-top: 4rem;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.question {
+    padding: 1.5rem;
+}
+
+.answer-box {
+    text-align: left;
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
+.button-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin: 0 .5rem 0 .5rem
+}
+
+.score-box {
+    background-color: #fff;
+    height: 2.5rem;
+    width: 12rem;
+    text-align: center;
+    margin-left: 17.5rem;
+}
+
+.end-score {
+    font-family: 'Pirata One', cursive;
+    font-size: 300%;
+    padding-top: 2rem;
+}
+
+.award-title {
+    font-family: 'Pirata One', cursive;
+    font-size: 200%;
+    margin-top: 2rem;
+}
+
+
+
+
